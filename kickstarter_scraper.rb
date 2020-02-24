@@ -21,6 +21,7 @@ def create_project_hash
     projects[project] = {}
   end
 
+  # return the projects hash
   projects
 end
 
