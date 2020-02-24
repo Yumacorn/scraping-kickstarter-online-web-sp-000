@@ -18,7 +18,7 @@ def create_project_hash
 
   # Iterate through the projects
   kickstarter.css("li.project.grid_4").each do |project|
-    
+
   end
   binding.pry
 
